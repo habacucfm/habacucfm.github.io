@@ -77,6 +77,11 @@ icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
 ########
+# Publications #
+########
+
+
+########
 # Research #
 ########
 
@@ -154,6 +159,7 @@ social:
 
 pages_list:
   About: 'about'
+  Publications: 'publications'
   Research: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
