@@ -85,7 +85,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Research #
 ########
 
-post-preview-words: 96
+post-preview-words: 16
 
 paginate: 5
 
