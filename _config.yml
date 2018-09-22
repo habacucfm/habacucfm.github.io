@@ -32,7 +32,7 @@ lang: "en"
 author: "habacucfm"
 title: "habacucfm"
 description: "HFM plant ecology research"
-keywords: "habacucfm, functional traits, habacuc flores-moreno"
+keywords: "habacucfm, functional traits, habacuc flores-moreno, habacuc ecology, haba ecology"
 favicon: "/img/blacktree.ico"
 404-img: "/img/labtocat.png"
 
@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Plant ecology, plant functional traits, demographic processes"
-  - text: "Plant functional ecology"
+  - text: "Plant ecology - Functional traits - Global change"
+  - text: "From communities to ecosystems"
 
 me-img: "/img/me.jpg"
 
@@ -109,15 +109,18 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/hfm_2018.jpg"
+    date: "March 2018-Present"
+    description: "Postdoc at the [Zanne lab](http://phylodiversity.net/azanne/) at GWU"
   - image: "/img/timeline/me_umn.jpg"
-    date: "June 2014 - Present"
-    description: "Postdoc at the [Reich](https://www.forestry.umn.edu/people/peter-b-reich), [Borer](http://www.tc.umn.edu/~borer/Site/Welcome.html) and [Seabloom](http://www.tc.umn.edu/~seabloom/index.html) groups at UMN"
+    date: "June 2014 - February 2018"
+    description: "Postdoc at the [Reich](https://www.forestry.umn.edu/people/peter-b-reich), [Borer](https://cbs.umn.edu/contacts/elizabeth-borer) and [Seabloom](http://www.tc.umn.edu/~seabloom/index.html) groups at UMN"
   - image: "/img/timeline/me_unsw.jpg"
     date: "February 2010 - April 2014"
-    description: "PhD at [Angela Moles' Big Ecology lab](http://www.bigecology.net.au/) at UNSW Australia"
+    description: "PhD at [Angela Moles' Big Ecology lab](https://research.unsw.edu.au/people/professor-angela-moles) at UNSW Australia"
   - image: "/img/timeline/me_unam.jpg"
     date: "2003-2009"
-    description: "BSc and MSc at [Meli Mandujano's research group](http://web.ecologia.unam.mx/personal/personal_perfil.php?var1=Dra.&var2=Mar%C3%ADa_del_Carmen&var3=Mandujano&var4=S%C3%A1nchez) UNAM"
+    description: "BSc and MSc at [Meli Mandujano's research group](http://132.248.49.121/perfiles/perfil.php?ID=1237837800453) at UNAM"
 
 # First image of the Timeline
 
@@ -127,7 +130,7 @@ timeline-img: "/img/timeline/start.jpg"
 # Contact #
 ###########
 
-email: "hfloresm@umn.edu"
+email: "habacucfm@gwu.edu"
 
 ##################
 # Social Buttons #
@@ -177,5 +180,5 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
